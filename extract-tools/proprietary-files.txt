@@ -1,27 +1,7 @@
 # Dolby Atmos - from rhode
 odm/bin/hw/vendor.dolby_v3_6.hardware.dms360@2.0-service|da39a3ee5e6b4b0d3255bfef95601890afd80709
-system_ext/app/MotoSignatureApp/MotoSignatureApp.apk|98027bccd4ec14cb7887cde068e35f6b0ecd0a44
-system_ext/etc/permissions/com.motorola.frameworks.core.addon.xml|b98f53235c8d4c1962d3b279840e2a074d0ddd10
-system_ext/etc/permissions/com.motorola.motosignature.xml|e94cdcfd1b92b6bd1d0b53c3c2ed8bffe362e6ac
-system_ext/etc/permissions/com.motorola.software.dolbyui.xml|d5c25b2522094346257a5ff0f4317c992b54d1fc
-system_ext/etc/permissions/moto-checkin.xml|373f75676a0ac7915f5bc49ec43fd99c38dd9c1b
-system_ext/etc/permissions/moto-settings.xml|f2a2703b62777c88e3a161a0d2a75d72f90d5007
-system_ext/etc/permissions/moto.xml|5521a530e243f6e5e928018320d4e9b819134fbb
 system_ext/etc/permissions/privapp-com.dolby.daxservice.xml|56da6dd095fba323ddf6951075995ba56c5f3f2f
-system_ext/etc/permissions/privapp-com.motorola.android.providers.settings.xml|44bd70f7309ad6407d43391bcdb5b7e05ae8c363
-system_ext/etc/permissions/privapp-com.motorola.dolby.dolbyui.xml|d7f762731e3302ce553bf22a99aaeec312f65c0a
 system_ext/etc/sysconfig/config-com.dolby.daxservice.xml|f2955d9e3d5f75b40fdc8229243828f0c1c163de
-system_ext/etc/sysconfig/config-com.motorola.android.providers.settings.xml|1f804d789dd7c8b7657a6f07e23bcac1ce5c701c
-system_ext/etc/sysconfig/config-com.motorola.dolby.dolbyui.xml|0131f1a5a5c2d2fc09a6bc75ff4e25b74785ec2a
-system_ext/etc/sysconfig/config-com.motorola.motosignature.app.xml|5b2c138d4be962f052700fb3ca00d822bbf836da
-system_ext/framework/com.motorola.frameworks.core.addon.jar|8431ff519b0a3e02411a0096898ee8acb372b9b7
-system_ext/framework/com.motorola.motosignature.jar|1607b24909a030ddec7f05b91356e6b2d76c0b6b
-system_ext/framework/moto-checkin.jar|989119b230c01ba95341d29de45e38120a68f394
-system_ext/framework/moto-settings.jar|0ebdf871ededa1eb9c5186bdb4a9055d89594779
-system_ext/framework/moto.jar|6c797a7f205f2ce5d939c000f21c6625daf0c33f
-system_ext/priv-app/MotoDolbyDax3/MotoDolbyDax3.apk;OVERRIDES=MusicFX|e6b8ddab4c29c7d46469e92980e2a0a0ca7ea4e8
-system_ext/priv-app/MotorolaSettingsProvider/MotorolaSettingsProvider.apk|25deb5bdb18d55dee1b9bd1de2ba46e353c62780
-system_ext/priv-app/daxService/daxService.apk|7df2fd75a92d942164ae713f5b70f853f98c95f0
 vendor/bin/hw/vendor.dolby.hardware.dms@2.0-service|8215768638794162db3bb76e43045926fcbb4b0b
 vendor/etc/media_codecs_dolby_audio.xml|e4673b108b6165f73572681f7fd0534179c46a54
 vendor/etc/dolby/dax-default.xml|ff6106958d9fec85d1ffd175b219195403bb718c
