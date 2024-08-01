@@ -1,0 +1,27 @@
+Motorola Dolby Atmos
+====================
+
+Getting Started
+---------------
+Clone the repository:
+
+```bash
+git clone -b v1.1 https://github.com/userariii/vendor_motorola-dolby.git vendor/motorola-dolby
+```
+
+Patches required to the device tree side :
+
+```bash
+https://github.com/Nokia-SDM660-Devices/device_nokia_PL2/commit/7e71c6f6f5a149476c46ab2180731066f8e8813f
+```
+To support the Dolby media codecs, include this line on your device tree :
+
+```bash
+<Include href="media_codecs_dolby_audio.xml" />
+```
+
+Inherit the dolby configs by :
+
+```bash
+$(call inherit-product, vendor/motorola-dolby/setup.mk)
+```
