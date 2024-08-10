@@ -36,4 +36,5 @@ PRODUCT_COPY_FILES += \
     vendor/motorola-dolby/dolby/proprietary/vendor/lib64/vendor.dolby.hardware.dms@2.0.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.dolby.hardware.dms@2.0.so
 
 PRODUCT_PACKAGES += \
+    DolbyManager \
     daxService
