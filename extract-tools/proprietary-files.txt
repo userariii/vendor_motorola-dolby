@@ -1,6 +1,5 @@
 # Dolby Atmos - from rhode
 odm/bin/hw/vendor.dolby_v3_6.hardware.dms360@2.0-service|da39a3ee5e6b4b0d3255bfef95601890afd80709
-system_ext/etc/sysconfig/config-com.dolby.daxservice.xml|f2955d9e3d5f75b40fdc8229243828f0c1c163de
 vendor/bin/hw/vendor.dolby.hardware.dms@2.0-service|8215768638794162db3bb76e43045926fcbb4b0b
 vendor/etc/media_codecs_dolby_audio.xml|e4673b108b6165f73572681f7fd0534179c46a54
 vendor/etc/dolby/dax-default.xml|ff6106958d9fec85d1ffd175b219195403bb718c
@@ -26,11 +25,8 @@ vendor/lib64/libstagefrightdolby.so|319814f3d8968e002bc1591b8e90e6eda745f79b
 vendor/lib64/vendor.dolby.hardware.dms@2.0-impl.so|92eb0a2b730810881288119fc4d038f52870acd1
 vendor/lib64/vendor.dolby.hardware.dms@2.0.so|a93b5cf33ae57387a2d32686520a0d1dd5d10dcc
 
-# DaxUI & dax-services configs
-system_ext/priv-app/DaxUI/DaxUI.apk
+# dax-services configs
 system_ext/priv-app/daxService/daxService.apk
-system_ext/etc/permissions/privapp-com.dolby.daxappui.xml
 system_ext/etc/permissions/privapp-com.dolby.daxservice.xml
-system_ext/etc/sysconfig/config-com.dolby.daxappui.xml
 system_ext/etc/sysconfig/config-com.dolby.daxservice.xml
 system_ext/etc/sysconfig/hiddenapi-com.dolby.daxservice.xml
